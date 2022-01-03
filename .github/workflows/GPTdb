@@ -3,7 +3,7 @@ import re
 import openai
 
 def gpt3(texts):
-    openai.api_key ="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"
+    openai.api_key =""
 
     response = openai.Completion.create(
       engine="davinci-codex",
