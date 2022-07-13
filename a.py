@@ -5,7 +5,7 @@ import re
 import openai
 
 def gpt3(texts):
-    openai.api_key ="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"
+    openai.api_key =
 
     response = openai.Completion.create(
       engine="davinci",
