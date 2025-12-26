@@ -150,6 +150,109 @@ Sources:
 
 ---
 
+## Anecdotal Reports & Theoretical Discussions
+
+### Forum Discussions: The Combination Has Been Proposed
+
+**Drugs-Forum Thread (2014): "Potentiating Exogenous (Meth)anandamide w/URB-597 or AM-1172?"**
+
+User "Willyzh" explicitly proposed the combination, citing the 32-fold potentiation research:
+> "URB 597 markedly increased the potency (32-fold) and duration of action of anandamide."
+
+The user theorized that combining exogenous anandamide with FAAH inhibitors could produce potent cannabinoid-like effects comparable to THC. They later mentioned exploring natural anandamide extraction from cacao powder, but **no follow-up results were documented**.
+
+Source: [Drugs-Forum - Potentiating Anandamide](https://drugs-forum.com/threads/potentiating-exogenous-meth-anandamide-w-urb-597-or-am-1172.211528/)
+
+---
+
+**Drugs-Forum Thread (2016): "FAAH inhibitor anandamide & oleamide"**
+
+User "ABaltz" asked about combining LY-218 (a FAAH inhibitor) with oleamide for recreational effects. An expert responder noted critical issues:
+- "Every study to date...uses I.P. injections. There is no evidence that [LY-218] is orally bioavailable."
+- LY-218 requires "between 10 and 30mg/kg" for mild anxiolytic effects (converting to ~92-272mg for humans, but only IP)
+- "There is no data on the T1/2 of LY-218."
+
+**Outcome**: The original poster concluded "More research needs to be done" and **did not pursue the experiment**.
+
+Source: [Drugs-Forum - FAAH inhibitor + oleamide](https://drugs-forum.com/threads/faah-inhibitor-ananamide-oleamide.280577/)
+
+---
+
+### URB-597 Self-Experiments (FAAH Inhibitor Alone)
+
+Two experience reports from Drugs-Forum:
+
+**Report 1 - Oral (8.5-15mg)**:
+- "Irritable" at T+1 hour, then "extraordinarily melancholy" at T+3 (described as positive)
+- Vision lag similar to cannabinoids; dry eyes
+- "Not to a degree that would lend itself to recreation"
+
+**Report 2 - Smoked (5-10mg)**:
+- Mild relaxation, mood enhancement
+- Headache relief lasting ~30 minutes
+- Very harsh, unpleasant taste
+
+**Neither report combined URB-597 with exogenous anandamide.**
+
+Source: [Drugs-Forum - URB-597 Experiences](https://drugs-forum.com/threads/urb-597-experiences.207582/)
+
+---
+
+### Maca (Natural FAAH Inhibitor) Experiences
+
+**Longecity/Nootropics Communities**:
+
+One dramatic anecdote from a user with PSSD (Post-SSRI Sexual Dysfunction):
+> "Today I took 4 capsules of 10:1 600mg MACA (about 24g of MACA) and my anhedonia is gone! FAAH inhibitors help to increase dopamine in reward center and control oxytocin, for the first time in 5 years I'm able to get goosebumps from listening to my favorite music."
+
+This user stated: "I believe in FAAH inhibitors/Cannabinoids MACA, Oleamide, EGCG, CBG as it made the most pronounced difference in my case."
+
+Source: [Nootropics Expert - Maca](https://nootropicsexpert.com/maca/)
+
+---
+
+### Cacao + CBD: The "Practical Stack" Suggestion
+
+Multiple sources discuss cacao's ability to potentiate cannabinoids:
+
+> "Dark chocolate can inhibit the breakdown of endogenous anandamide... and may also inhibit the breakdown of other cannabinoids such as CBD or THC. This means the effects of these compounds are heightened when consumed with dark chocolate."
+
+Cacao contains **N-oleoylethanolamide (OEA)** and **N-linoleoylethanolamine (LEA)**, which:
+- Inhibit FAAH enzyme
+- Are structural cousins of anandamide
+- Could theoretically potentiate exogenous anandamide
+
+> "When you pair CBD with chocolate, you're doubling down on your body's natural feel-good chemistry."
+
+Sources:
+- [To'ak Chocolate - Dark Chocolate and CBD](https://toakchocolate.com/blogs/news/can-dark-chocolate-enhance-the-functional-benefits-of-cbd-and-improve-your-endocannabinoid-tone)
+- [Seleno Health - Entourage Effect](https://selenohealth.com/blogs/maca/the-entourage-effect-explained-how-cannabinoids-create-blissful-synergy)
+
+---
+
+### Oleamide: A Related Approach
+
+Oleamide (sleep-inducing lipid) has a unique relationship with anandamide:
+
+> "Oleamide potentiates anandamide binding to cannabinoid receptors (CB1) thus enhancing anandamide effects. This effect is caused by the fact that oleamide inhibits the enzyme responsible for anandamide hydrolysis in a dose-dependent manner."
+
+This could be considered an indirect form of "exogenous anandamide enhancement" - taking oleamide to both inhibit FAAH AND enhance whatever anandamide is present.
+
+Source: [Wikipedia - Oleamide](https://en.wikipedia.org/wiki/Oleamide)
+
+---
+
+### Potential Interference Effect (Counterpoint)
+
+One preclinical study noted an interesting finding:
+> "Although researchers showed an anxiolytic effect with URB597, co-administration of anandamide reversed this effect."
+
+**Interpretation**: FAAH inhibition selectively affects areas where endogenous anandamide is being released, while exogenous anandamide (effects prolonged by FAAH inhibition) would affect cannabinoid receptors more broadly - potentially causing paradoxical effects.
+
+Source: [Frontiers - Effects of ECS Modulation](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2011.00057/full)
+
+---
+
 ## Palmitoylethanolamide (PEA): The Practical Alternative
 
 PEA is an endogenous fatty acid amide that enhances anandamide activity (entourage effect):
@@ -168,14 +271,16 @@ Sources:
 
 ## Summary Table: Approaches to Elevating Anandamide Signaling
 
-| Approach | Human Trials? | Notes |
-|----------|---------------|-------|
-| FAAH inhibitor alone | Yes (multiple) | Mixed efficacy results; safety concerns |
-| Exogenous anandamide alone | No (animals only) | Poor bioavailability; rapid degradation |
-| **FAAH inhibitor + exogenous anandamide** | **NO** | Never tested in humans |
-| CBD (indirect FAAH modulation) | Yes | Modest effects on plasma anandamide |
-| PEA (entourage effect) | Yes (48 RCTs) | Enhances endogenous anandamide action |
-| Natural FAAH inhibitors (diet) | No formal trials | Likely insufficient for clinical effect |
+| Approach | Human Trials? | Anecdotal? | Notes |
+|----------|---------------|------------|-------|
+| FAAH inhibitor alone | Yes (multiple) | Yes (URB-597) | Mixed efficacy; safety concerns |
+| Exogenous anandamide alone | No (animals only) | No | Poor bioavailability; rapid degradation |
+| **FAAH inhibitor + exogenous anandamide** | **NO** | **Proposed but never tried** | 2 forum threads theorized about it |
+| CBD (indirect FAAH modulation) | Yes | Yes | Modest effects on plasma anandamide |
+| PEA (entourage effect) | Yes (48 RCTs) | Yes | Enhances endogenous anandamide action |
+| Maca (macamides FAAH inhibitor) | No formal trials | Yes (dramatic) | One PSSD recovery anecdote |
+| Cacao + CBD stack | No formal trials | Suggested online | OEA/LEA inhibit FAAH |
+| Oleamide | Animal studies | Proposed | Potentiates AEA at CB1, inhibits FAAH |
 
 ---
 
@@ -183,17 +288,27 @@ Sources:
 
 1. **No human trials have combined FAAH inhibitors with exogenous anandamide**
 
-2. Animal studies confirm the combination produces **dramatically potentiated effects** (32-fold increase in anandamide potency with URB597)
+2. **The combination has been proposed** on drug forums (2014, 2016) but **no one documented actually trying it** - bioavailability and safety concerns deterred experimenters
 
-3. The Jo Cameron case demonstrates that chronically elevated anandamide (from genetic FAAH dysfunction) produces profound analgesia, anxiolysis, and accelerated healing
+3. Animal studies confirm the combination produces **dramatically potentiated effects** (32-fold increase in anandamide potency with URB597)
 
-4. Clinical FAAH inhibitor trials (without exogenous anandamide) have shown **mixed results** and **safety concerns**
+4. The Jo Cameron case demonstrates that chronically elevated anandamide (from genetic FAAH dysfunction) produces profound analgesia, anxiolysis, and accelerated healing
 
-5. The practical approach most resembling this combination in humans involves:
+5. Clinical FAAH inhibitor trials (without exogenous anandamide) have shown **mixed results** and **safety concerns**
+
+6. **Closest human anecdotes**:
+   - URB-597 self-experiments (FAAH inhibitor alone): mild, subtle effects
+   - High-dose maca (natural FAAH inhibitor): one dramatic PSSD recovery report
+   - Cacao + CBD stacks: theorized but not systematically documented
+
+7. **Potential paradox**: One study found exogenous anandamide *reversed* the anxiolytic effect of URB597, suggesting the combination might interfere rather than synergize in some contexts
+
+8. The practical approach most resembling this combination in humans involves:
    - CBD (moderate FAAH inhibition) + PEA (anandamide potentiation)
-   - But this is far weaker than pharmacological FAAH inhibition + IV anandamide
+   - Oleamide (FAAH inhibition + CB1 potentiation)
+   - Maca + cacao (natural FAAH inhibitors with trace anandamide)
 
-6. Future research directions suggested by the Jo Cameron case focus on **FAAH-OUT targeting** rather than direct FAAH inhibition
+9. Future research directions suggested by the Jo Cameron case focus on **FAAH-OUT targeting** rather than direct FAAH inhibition
 
 ---
 
