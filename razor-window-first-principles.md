@@ -46,16 +46,22 @@ Across all pharmacology this exact shape comes cleanly from only two families:
   single-lab.
 
 ### 4. Keystone — a single receptor flipping coupling SIGN is textbook-real
-- The **α2-adrenoceptor** does exactly this: **Gi (cAMP-down) at low agonist concentration,
-  Gs (cAMP-up) at high** — a genuine concentration-dependent sign flip, PTX-confirmed,
-  ~60–85-fold separation, driven by efficacy + receptor reserve, not orthosteric affinity
-  ([PMC9471048](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9471048/)).
-- For opioids specifically, the Gs-switch is **independently confirmed**: Chakrabarti &
-  Gintzler 2005 co-IP showed morphine enhances μ-opioid–Gsα coupling
-  ([PMID 15857684](https://pubmed.ncbi.nlm.nih.gov/15857684/)) — a *different lab* than
-  Crain–Shen, and not fraud-tainted.
-- Related state-triggered precedent: β2-adrenergic Gs→Gi switch via PKA phosphorylation
-  (Daaka/Lefkowitz 1997).
+- **The dose-driven precedent (the right match): α2-adrenoceptor** flips **Gi (cAMP-down) at
+  low agonist concentration → Gs (cAMP-up) at high** — a genuine *concentration*-dependent
+  sign flip, PTX-confirmed, ~60–85-fold separation, driven by efficacy + receptor reserve
+  ([PMC9471048](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9471048/)). This is the precedent
+  that matches a razor *dose* window, because it switches with concentration.
+- **The cleanest-proven precedent, but state- not dose-triggered: β2-adrenergic Gs→Gi switch
+  via PKA phosphorylation** (Daaka/Lefkowitz 1997, [Nature](https://www.nature.com/articles/36362)),
+  reproduced in a **purified reconstituted system** (Zamah 2002,
+  [PMID 12063255](https://pubmed.ncbi.nlm.nih.gov/12063255/)). The phosphorylation-dead mutant
+  is fully occupied yet cannot switch — proving the trigger is a **state change
+  (phosphorylation / lipid-raft context), NOT occupancy**. This is a *tension* with a sharp
+  dose window: the best-proven sign-switch is gated by the wrong variable.
+- **Opioid-specific anchor (fraud-independent):** the MOR Gi→Gs switch on chronic opioid is
+  real, with the adenylyl-cyclase-driving βγ originating from **Gs not Gi**
+  (Chakrabarti & Gintzler, [PMID 16967511](https://pubmed.ncbi.nlm.nih.gov/16967511/)),
+  and is raft/caveolin-dependent — again **context-gated, not pure occupancy.**
 - Caveat (ternary-complex math): an occupancy-driven switch needs added structure (two
   active conformations / receptor reserve), so it is *permitted, not forced*.
 
@@ -66,7 +72,7 @@ coupling-state switch**, not a balance of two graded receptor curves. The substr
 single receptor flipping Gi↔Gs with occupancy — is independently documented (α2-adrenoceptor),
 and the opioid Gs-switch is independently confirmed (Gintzler). **So the phenomenon is
 mechanistically respectable in principle, and does not depend on anything retracted.** What
-was fraudulent (filamin-A, femtomolar site) or single-lab (GM1 as trigger) is only the
+was fraudulent (filamin-A, femtomolar site) or single-lab/unreplicated (GM1 as trigger — never independently replicated, distinct from the retracted filamin-A layer) is only the
 *specific quantitative apparatus* — not the existence of the switch.
 
 ## The honest gap (the real finding)
