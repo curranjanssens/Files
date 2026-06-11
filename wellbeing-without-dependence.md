@@ -307,6 +307,58 @@ This is a genuine, fundable program to democratize sustainable bliss — and it 
 to deliver durable wellbeing to a billion people than a euphoriant, precisely because it copies
 the mechanism that makes jhana sustainable instead of the mechanism that makes drugs addictive.
 
+## 3d. Correcting the record: the obstacle is *delivery precision*, not a homeostatic veto
+
+An earlier draft of this document leaned on two claims that do not survive scrutiny, and the
+correction is more interesting than the error:
+
+- **"Sustained bliss forces the set-point down" — not supported.** The meditation literature
+  points the other way: meditative analgesia/affect tends to *grow more resilient* with
+  practice, shows **no cross-tolerance with opioids**, and "does not develop tolerance in the
+  way drugs do." There is even active dispute over whether it is endogenous-opioid-mediated at
+  all (naloxone fails to reverse meditation analgesia in some studies), implicating distributed
+  theta-oscillatory / network mechanisms rather than simple receptor occupancy.
+  ([Zeidan, mindfulness & endogenous opioids, *Pain* 2016](https://pubmed.ncbi.nlm.nih.gov/27039954/);
+  [opposing result, *J Neurosci* 2016](https://www.jneurosci.org/content/36/11/3391);
+  [theta / self-transcendence, *Sci Adv* 2022](https://www.science.org/doi/10.1126/sciadv.abo4455))
+- **"Endogenous vs. exogenous" is not magic.** Correct. "The brain makes it from inside" is not
+  a mechanism. The honest question is: what *specifically* differs between endogenous reward
+  signaling and a systemic agonist at comparable occupancy? Two concrete answers emerge, and
+  both are engineering problems rather than physical laws:
+
+**(1) Spatial precision.** The opioid hedonic "liking" hotspot is **~1 mm³** in the rostrodorsal
+nucleus accumbens shell, where mu/delta/kappa stimulation enhances "liking" by **200–400%**. But
+the **caudal** medial shell is a hedonic **coldspot**, where the *same* opioid stimulation
+**suppresses** liking to ~half. Endogenous release can paint the hotspot; **a systemic drug
+floods hotspot, coldspot, and everything between simultaneously** — which is precisely why "the
+same compound at the same dose" does *not* recapitulate the endogenous effect. It is not the
+molecule or the dose; it is that a pill cannot target a cubic millimeter.
+([Castro & Berridge, *J Neurosci* 2014](https://www.jneurosci.org/content/34/12/4239))
+
+**(2) Temporal pattern.** Receptor desensitization is pattern-dependent: **pulsatile/phasic
+stimulation resists desensitization while continuous occupancy drives it**, and there is an
+*optimal periodic signal* that maximizes responsiveness. The clinical proof is **GnRH** —
+*pulsatile* delivery stimulates the pituitary axis indefinitely, while *continuous* delivery of
+the same molecule **shuts it down** (the basis of GnRH-agonist suppression therapy). DFNZ (§2.1)
+is the reward-system echo: tonic vs. phasic dopamine kinetics flip addiction liability at the
+*same* receptor.
+([pulsatile vs. continuous desensitization, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1260231/))
+
+**The reframed problem.** The barrier to recapitulating a jhana-like hedonic state
+pharmacologically is therefore **not** a homeostatic prohibition on tolerance-free reward. It is
+the dual challenge of **spatial targeting** (deliver to the hotspot, not the coldspot) and
+**temporal patterning** (pulsatile, at the desensitization-resistant frequency, not continuous).
+That is a hard, legitimate, *investigable* problem — closer to a delivery-engineering question
+than a "is it allowed by physics" question. It also predicts *why* every crude approach (oral
+agonist, steady occupancy, whole-brain flood) tolerates out, and what a non-tolerizing approach
+would have to do differently: match the endogenous *where* and *when*, not just the *what*.
+
+Open liabilities, stated honestly: (a) no current technology delivers a ligand to a 1 mm³ human
+brain target non-invasively; (b) pulsatile reward-system dosing is unproven and could as easily
+*sensitize wanting* (§1) as preserve liking; (c) the meditation data may reflect a distributed
+network state that no single-receptor drug reproduces at all. The reframing makes the problem
+honest and tractable — it does not make it solved.
+
 ## 4. Which avenues are most promising — and the honest verdict
 
 **Ranked by "wellbeing/relief per unit of dependence risk," strongest first:**
