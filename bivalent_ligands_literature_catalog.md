@@ -64,6 +64,7 @@ Flagged as **chimeric/fused (not spacer-bivalents)**, included for completeness:
 | **Bis-5-OH-DPAT (14b)** | two 5-OH-DPAT **agonists** | D2/D3 homodimer | diamide alkyl; **~9–10 CH₂** (~13.5 Å N–N); EC50 ~0.44 nM | Dutta (Wayne State), 2012 | *ACS Med Chem Lett* 2012, 3:991, PMC3530844 |
 | **Bis-haloperidol (cmpd 13)** | two haloperidol **antagonists** | D2-like homodimer | **22 atoms**; Hill ~2 | Salama/Gmeiner, 2014 | *Bioorg Med Chem Lett* 2014, PMID 25047579 |
 | **Sumanirole bivalents (Newman/Bonifazi)** | sumanirole D2 **agonist** + aryl secondary pharmacophore | D2 (bitopic/bias) | C4 linker (functionally bitopic) | Newman (NIDA), 2017 | *J Med Chem* 2017, PMC7594663 |
+| **Homobivalent clozapine** | two clozapine units (**D2 antagonist** measured) | D2-like homodimer | N4′-linked; **16–18 atoms optimal**; ~75–79× affinity gain (1.4 nM) | Lane/Capuano (Monash), 2012 | *J Med Chem* 2012, 55:1898, PMID 22243698 |
 | **A1–A3 conjugates (MRS1740/1741)** | A1 **agonist** (phenyladenosine) + A3 **agonist** (IB-MECA congener) | A1+A3 co-activation | m-/p-phenylene-diisothiocyanate (longer best, ~20× over amide) | Jacobson/Liang (NIH/Penn), 2000 | *J Biol Chem* 2000, PMID 10887176 |
 
 Adenosine homodimers (A2A-A2A, A1-A1) were addressed via **PAMAM dendrimer multivalency** (CGS21680, MRS5212, MRS5246; Jacobson lab), not discrete spacer-bivalents. **Negatives:** no true A1–A2A heterobivalent; no genuine D2-vs-D3 cross-receptor heterobivalent; no D1–D2 small-molecule heterobivalent (only SKF83959 + disruptor peptides).
