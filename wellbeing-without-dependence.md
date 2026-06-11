@@ -91,6 +91,53 @@ ketamine/neurosteroid work in
 opioid abuse-liability context in
 [esketamine abuse-liability analysis, PMC 2025](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12179440/).
 
+### 2.1 DFNZ (April 2026) — the strongest decoupling signal yet, and what it really shows
+**N-desethyl-fluornitrazene (DFNZ)**, a nitazene-derived **µ-opioid superagonist**, produced
+potent analgesia in rodents with — per the preclinical reports — **no clear tolerance, no NAc
+µ-receptor downregulation, low withdrawal burden, and weak reward signaling**, even after a
+month of escalating doses.
+([C&EN, Apr 2026](https://cen.acs.org/pharmaceuticals/drug-discovery/new-opioid-painkiller-surprisingly-few/104/web/2026/04);
+[MedicalXpress, Apr 2026](https://medicalxpress.com/news/2026-04-safer-opioid-dfnz-discovery-pain.html);
+[Clin Lab Int, Apr 2026](https://clinlabint.com/nitazene-derivative-dfnz-delivers-potent-analgesia-without-respiratory-depression-or-addiction-signals-in-preclinical-models/))
+
+**The mechanism is the lesson.** DFNZ's reported safety comes from *dopamine kinetics*: it
+drives **slow tonic** dopamine release in the nucleus accumbens **without the fast phasic
+dopamine transients** that encode reinforcement and cue-conditioned craving. In Berridge terms
+(§1), it engages the receptor while **largely bypassing the phasic-dopamine "wanting" signal.**
+
+This is the best modern evidence that analgesia and dependence can be pulled apart *even at the
+µ-opioid receptor* — the hardest possible place to try. But read carefully what it implies for
+the euphoriant goal:
+
+- **DFNZ achieves safety by *subtracting* the reward/euphoria signal, not preserving it.** Its
+  selling point is *weaker* dopamine-linked reward. It is, mechanistically, the **opposite of a
+  euphoriant** — an opioid engineered to relieve pain while minimizing the high. It is powerful
+  support for *analgesia without dependence*, and simultaneously evidence that **the euphoria is
+  the liability you remove, not the feature you keep.**
+- **It is preclinical and it is a nitazene.** Rodent "no tolerance / low reward" results have
+  historically *not* survived translation (see §4 on the asymmetry of error). Nitazenes as a
+  class are among the most potent and lethal street opioids; therapeutic index and human abuse
+  liability are unestablished.
+
+### 2.2 The set-point principle (the actual answer to "tolerance-free")
+The reward literature gives a crisp boundary for *when* an effect can be tolerance-free
+([Koob & Le Moal allostasis](https://pubmed.ncbi.nlm.nih.gov/11120394/);
+[hedonic set-point overview](https://www.biopsychiatry.com/hedonicsp.htm)):
+counter-adaptive opponent processes fire in response to **deviation above the homeostatic
+set-point**. Therefore:
+
+- **Correcting a deficit *toward* baseline** (lifting anhedonia/depression back to normal
+  hedonic tone) does **not** require fighting homeostasis — the system is not being pushed into
+  an allostatic state, so it need not be self-limiting. This is why KOR antagonists and
+  single-dose psychedelics can give *durable* benefit.
+- **Driving hedonic tone *above* baseline** (supranormal euphoria in a healthy person) is
+  exactly the stimulus that recruits the downward recalibration. "Tolerance-free sustainable
+  euphoria" in the well is the case the homeostatic machinery is built to prevent.
+
+**The mechanistic source of sustainability is operating at-or-below the set-point (deficit
+correction), not above it.** That is not a moral claim; it is where the biology stops fighting
+back.
+
 ---
 
 ## 3. Affect / "wellbeing": the legitimate therapeutic frontier
@@ -201,6 +248,10 @@ the reward system's homeostatic accounting. That, not Soma, is where the search 
 - Molecular mechanisms of emerging antidepressant strategies, PMC 2025 — https://pmc.ncbi.nlm.nih.gov/articles/PMC12785913/
 - Esketamine abuse-liability analysis, PMC 2025 — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12179440/
 - Esketamine long-term safety (SUSTAIN-2) — https://www.psychiatrist.com/jcp/long-term-safety-of-esketamine-nasal-spray/
+- DFNZ µ-opioid superagonist, preclinical, C&EN Apr 2026 — https://cen.acs.org/pharmaceuticals/drug-discovery/new-opioid-painkiller-surprisingly-few/104/web/2026/04
+- DFNZ discovery coverage, MedicalXpress Apr 2026 — https://medicalxpress.com/news/2026-04-safer-opioid-dfnz-discovery-pain.html
+- DFNZ preclinical detail, Clinical Laboratory Int Apr 2026 — https://clinlabint.com/nitazene-derivative-dfnz-delivers-potent-analgesia-without-respiratory-depression-or-addiction-signals-in-preclinical-models/
+- Addiction, reward and the hedonic set-point — https://www.biopsychiatry.com/hedonicsp.htm
 
 *Scope note: This document covers molecular targets, mechanisms, and clinical evidence for
 drug-discovery planning. It deliberately contains no synthesis routes, formulations, dosing
