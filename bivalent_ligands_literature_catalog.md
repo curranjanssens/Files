@@ -75,13 +75,15 @@ Adenosine homodimers (A2A-A2A, A1-A1) were addressed via **PAMAM dendrimer multi
 
 | Compound | Pharmacophores (pharmacology) | Dimer target | Linker / optimal spacer | Lab / year | Key reference |
 |---|---|---|---|---|---|
-| **Dimeric 8-OH-DPAT** | two 8-OH-DPAT **agonists** | 5-HT1A homodimer | spacer unspecified; ↑ efficacy | Pauwels, 1998 | *Naunyn-Schmiedeberg's* 1998, 358:404 |
+| **Dimeric 8-OH-DPAT** | two 8-OH-DPAT **agonists** | 5-HT1A homodimer | spacer unspecified; converts partial→near-full agonist (↑ efficacy) | Pauwels/Halazy (Pierre Fabre), 1998 | *Naunyn-Schmiedeberg's* 1998, 358:404 |
+| **bis-MPP / DTPA radioligand** | two 1-(2-methoxyphenyl)piperazine units | 5-HT1A (imaging) | DTPA-chelator spacer; Hill 1.9–2.3 (two-site); ~1000× over 5-HT2A | Mishra (INMAS), 2012 | *MedChemComm* 2012, 3:814 |
 | **Bis-serotonin (4g/4j)** | two 5-HT **agonists** (5-OH linked) | 5-HT1B/1D homodimer | piperazide spacers; selectivity tracks length | Halazy, 1996 | *J Med Chem* 1996, 39:4920, PMID 8960551 |
 | **Sumatriptan dimer** | two sumatriptan **agonists** | 5-HT1B/1D | **p-xylyl** spacer (sulfonamide N); Ki ~0.64 nM | Perez/Halazy, 1998 | *Bioorg Med Chem Lett* 1998 |
 | **LY-334370 dimer (cmpd 8)** | two 5-HT1F agonist analogs | selectivity switch → 5-HT1D | C3–C3 linked; >10,000× 1D/1F | Theravance, 2008 | *J Med Chem* 2008, 51:3609, PMID 18507369 |
 | **M-100907 polyether dimers (33–35)** | two M-100907 5-HT2A **antagonists** | 5-HT2A homodimer | PEG at catechol; **12–18 atoms optimal** | Gilbertson (UTMB), 2011 | *ACS Chem Neurosci* 2011, 2:640, PMC3254110 |
 | **Triazole M100907 bivalents (6c; "SG-15/CS-6c")** | two M100907 5-HT2A **antagonists** | 5-HT2A homodimer | EG/triazole (CuAAC); **~11–14 atoms**; suppresses cocaine hyperactivity | Cunningham/Gilbertson, 2018 | *ACS Chem Neurosci* 2018, 9:514, PMC5862780 |
 | **Bis-ML10302** | two ML10302 5-HT4 **partial agonists** (→ antagonist as dimer) | 5-HT4 homodimer | rigid alkyne; **20–24 atoms optimal** | Lezoualc'h (Paris-Sud), 2005/2007 | *J Med Chem* 2007, 50:4482, PMID 17676726 |
+| **(BTZ)₂DTPA / (6-AcBTZ)₂DTPA** | two arylpiperazinyl-benzothiazolone **antagonists** | 5-HT1A–5-HT7 dimer (⁹⁹ᵐTc imaging) | DTPA-chelator spacer; 6-Ac improves BBB | Mishra (IIT Delhi/INMAS), 2018/2019 | *New J Chem* 2018, C8NJ00089A; *ACS Omega* 2019 |
 | **5-HT2A×mGlu2 heterobivalents (7 cmpds)** | MDL-100907 5-HT2A **antagonist** + JNJ-42491293 mGlu2 **ago-PAM** | 5-HT2A–mGlu2 | variable; **no length–potency correlation** | Bunch (Copenhagen), 2020 | *J Med Chem* 2020, 63:9928, PMID 32815361 |
 
 Negative: ergoline (pergolide/terguride) dimers — dimerization did not improve affinity. No true tethered bivalent for 5-HT2C or 5-HT7 (only single-pharmacophore "dual" ligands).
