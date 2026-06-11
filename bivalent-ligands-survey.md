@@ -270,7 +270,151 @@ landmark approvals.[^bsab_cat][^blina]
 
 ---
 
-## 8. Caveats on this survey
+---
+
+## 8. Theoretical foundations of multivalency
+
+Bivalent design rests on a body of polyvalency theory that predates and underlies it. The
+field-defining review is **Mammen, Choi & Whitesides, "Polyvalent Interactions in Biological
+Systems," *Angew. Chem. Int. Ed.* 1998** — a ~40-page treatment that became the most-cited
+theoretical anchor of the field.[^mammen1998] It formalized the distinction between monovalent
+**affinity** and polyvalent **avidity (functional affinity)** and decomposed enhancement into
+**statistical, chelate (entropic), subsite, and receptor-clustering** effects, while stressing that
+**negative cooperativity** also occurs (each successive binding event weaker than the last).[^mammen1998]
+
+A recurring theoretical claim is that a flexible linker costs roughly **~RT·ln3 of conformational
+entropy per freely rotating single bond** on binding; later work by the Whitesides group showed the
+dependence of binding free energy on linker length can nonetheless be weak, partially reconciling the
+"rigid vs. flexible linker" debate through the effective-concentration (*C*<sub>eff</sub>) model — a
+**genuine historical controversy**, not settled dogma.[^kane2010][^krishnamurthy_multivalency]
+
+The most dramatic avidity demonstration is **trivalent vancomycin** binding a trivalent D-Ala-D-Ala
+ligand, with *K*<sub>d</sub> ≈ **4 × 10⁻¹⁷ M** — tighter than the avidin·biotin pair, among the tightest
+synthetic receptor–ligand systems known.[^vanco_tri] In **glycobiology**, the **"cluster glycoside
+effect"** (nonlinear avidity from clustered carbohydrates) traces to **Y. C. Lee's** work in the 1970s,
+and **Laura Kiessling's** group extended multivalency from affinity to *function*, showing multivalent
+glycopolymers cluster L-selectin and trigger its proteolytic shedding, with avidity scaling with
+valency.[^cluster][^kiessling]
+
+---
+
+## 9. Bivalent and dimeric enzyme inhibitors
+
+A large, often-overlooked branch of the field targets enzymes with two engageable sites — either two
+sub-sites of one active-site cleft, or the two halves of a homodimeric enzyme.
+
+**Acetylcholinesterase (AChE) dual-binding-site inhibitors** are the canonical example. AChE has a
+~20 Å gorge with a **catalytic anionic site (CAS)** at the base and a **peripheral anionic site (PAS)**
+at the rim; bivalent ligands of the right tether length sandwich both. **Bis(7)-tacrine** — two tacrine
+units joined by a 7-carbon chain (Pang, Quinn et al., *J. Biol. Chem.* 1996) — was reported up to
+~1,000-fold more potent than tacrine, with the heptamethylene tether identified as optimal.[^bis7tacrine]
+A crystal structure (*Torpedo* AChE, PDB 2CMF) confirmed that a 5-carbon analogue is too short to reach
+the PAS while the 7-carbon analogue bridges CAS and PAS — a direct structural test of the
+tether-length hypothesis.[^bistacrine_struct] The optimum is **enzyme-specific** (10 carbons for
+*Drosophila*, 8 for *Blattella*), not universal.[^bistacrine_insect] Bis(7)-tacrine is also **not
+clean** — it is a potent GABA(A) antagonist and blocks NMDA and K⁺ currents, a caution against the
+"selective dimer" narrative.[^bis7_offtarget] Related work produced subnanomolar **huprine–tacrine
+heterodimers**,[^huprine_hetero] **donepezil–tacrine hybrids** that displace the PAS marker propidium
+(direct evidence of two-site binding),[^donepezil_tacrine] and **memoquin**, which bridged from
+dual-site AChE inhibitor toward a multi-target-directed ligand also hitting amyloid-β aggregation.[^memoquin]
+Notably, **huprine homodimers were ~29-fold *weaker* than the monomer** — a reminder that dimerization
+can hurt.[^huprine_homo]
+
+**Homodimeric enzymes** invite symmetry-matched inhibitors. **HIV-1 protease** is a C2-symmetric
+homodimer, which inspired symmetry-based inhibitors matching its dyad; the natural product
+**hinnuliquinone**, a C2-symmetric bis-indolyl quinone, inhibits it at *K*<sub>i</sub> ≈ 0.97 µM.[^hiv_sym][^hinnuliquinone]
+A distinct strategy uses crosslinked peptoids to block **dimerization** of the protease's interface
+rather than its active site.[^hiv_dimerization]
+
+**Glycopeptide antibiotic dimers** exploit cooperative D-Ala-D-Ala binding: natural **eremomycin**
+dimerizes "back-to-back" to enhance affinity ~10-fold,[^eremomycin] and synthetic **"shapeshifting"
+vancomycin dimers** built on a fluxional bullvalene core reached MICs up to 64-fold below vancomycin
+against VRE and slowed resistance emergence.[^bullvalene] A **covalent carbonic anhydrase II dimer**
+binding bivalent sulfonamides served as a clean thermodynamic model, reaching 3–40 pM avidity vs.
+16 nM monovalent.[^ca_model]
+
+The unifying concept is the **bisubstrate (multisubstrate adduct) inhibitor** — one molecule embodying
+features of both substrates of a two-substrate enzyme, binding both sub-sites and gaining both potency
+and specificity.[^bisubstrate] All protein kinases, having separate ATP and protein-substrate sites,
+are natural targets: the milestone is **Parang & Cole's** ATPγS–peptide bisubstrate inhibitor of the
+insulin-receptor kinase (*Nat. Struct. Biol.* 2001).[^parang2001] For **Abl/Bcr-Abl**, bivalent
+strategies span the ATP site and the allosteric **myristate pocket** (GNF-2 class), suppressing
+resistance mutations including the **T315I** gatekeeper.[^abl] An early **5′-FSBA–tyrosine** Abl
+conjugate that bound only the ATP site is an instructive negative result.[^abl_fail] Bisubstrate/NAD
+cofactor mimics (e.g., **EM-1745** for 17β-HSD; NNMT bisubstrate analogues) round out the class.[^nad]
+
+---
+
+## 10. The wider GPCR / neuro bivalent toolbox
+
+Beyond the famous opioid and dopamine compounds, bivalent design has reached many receptor families,
+often as **pharmacological tools** rather than drug candidates:
+
+- **Muscarinic** — Mohr/Holzgrabe **dualsteric antagonist hybrids** (tropane orthosteric + phthalimide
+  allosteric, hexamethonium linker) gave the first proof of a bitopic binding mode for antagonists, with
+  tropane orientation controlling M2-vs-M5 selectivity.[^musc_dualsteric] **Methoctramine** (Melchiorre)
+  was an early homobivalent M2-selective antagonist predating modern dualsteric design.[^methoctramine]
+- **Oxytocin** — superpotent bivalent agonists with a **~25 Å** spacer fit a channel-like passage at the
+  OTR dimer's TMH1–TMH2 interface, boosting G-protein signaling ~1000-fold in vitro and 40–100-fold in
+  vivo.[^oxytocin2016]
+- **Melatonin** — N1- and O-linked dimers (22–24-atom spacers) raise MT1 BRET signals ~3-fold; bitopic
+  series tune MT1 selectivity (up to ~112-fold); **S26131**, an agomelatine dimer, reportedly shows
+  >200-fold higher MT1 affinity.[^melatonin]
+- **Melatonin–histamine H3** — the first melatonergic/histaminergic heterobivalents (Pala et al.) bound
+  MT1/MT2 and H3 in one molecule.[^mel_h3]
+- **Sigma** — **MAM03055A**, the first homobivalent σ2/TMEM97-selective ligand (~60-fold over σ1), binds
+  pseudo-irreversibly and depletes σ2/TMEM97 protein, an effect absent for its monomer.[^sigma]
+- **Neuropeptide Y** — dimeric argininamide antagonists (Keller/Buschauer) hit Y1/Y4 at nanomolar Ki,
+  with Y1 (but not Y4) showing stereochemical discrimination; the dimeric peptide **1229U91** is a Y4
+  agonist.[^npy]
+- **Somatostatin / GRP** — rigid **oligoproline** scaffolds fixing 10/20/30 Å inter-pharmacophore
+  distances showed a 20 Å optimum for cellular internalization.[^oligoproline]
+- **Integrins** — cyclic **RGD dimers/tetramers** bind αvβ3 bivalently for higher tumor uptake than
+  monomers, widely used in radiotracer design.[^rgd]
+- **Specialized probe types** — **photoswitchable** bivalent/dualsteric ligands use azobenzene units for
+  millisecond optical control (e.g., H3R ligands VUF14738/VUF14862 shift affinity >10-fold on
+  illumination); **covalent/disulfide-linked** dimers (the DV1-dimer CXCR4 probe) lock two protomers
+  together.[^photoswitch][^dv1]
+
+A few apparent **gaps** are worth recording: no genuine linked-pharmacophore H1/H4 bivalent surfaced,
+and "bivalent NMDA-receptor ligands" resolve only to interface-binding negative allosteric modulators
+like **ifenprodil** (which binds the GluN1/GluN2B N-terminal-domain interface), not true tethered
+bivalents.[^nmda]
+
+---
+
+## 11. The induced-proximity "TAC zoo"
+
+PROTACs (Section 6) opened a now-sprawling family of bifunctional, induced-proximity molecules. They
+share the two-binder-plus-linker architecture but differ in **what they recruit** and **what happens to
+the target**:
+
+| Modality | First report | Recruits | Effect on target |
+|---|---|---|---|
+| **RIBOTAC** | Disney lab, *JACS* 2018 | RNase L | Catalytically degrade a target **RNA**[^ribotac] |
+| **DUBTAC** | Nomura lab, *Nat. Chem. Biol.* 2022 | Deubiquitinase OTUB1 | **Stabilize/rescue** a protein (inverse of PROTAC)[^dubtac] |
+| **PHICS** | Choudhary lab, *JACS* 2020 | A kinase (AMPK, PKC) | **Phosphorylate** a target[^phics] |
+| **PhoRC / PhosTAC** | Yamazoe 2020 (PP1); Crews 2021 (PP2A) | A phosphatase | **Dephosphorylate** a target[^phorc][^phostac] |
+| **RIPTAC** | Halda, bioRxiv 2023 / *Cell Chem. Biol.* 2024 | A pan-essential survival protein | **Proximity-based cell death**, no degradation[^riptac] |
+| **ATTEC** | B. Lu lab, *Nature* 2019 | LC3 (autophagosome) | **Autophagic** degradation (e.g., mutant huntingtin)[^attec] |
+| **AUTOTAC** | Y.T. Kwon lab, *Nat. Commun.* 2022 | p62/SQSTM1 ZZ domain | **Autophagic-lysosomal** degradation[^autotac] |
+| **TRAFTAC** | Crews lab, *Nat. Commun.* 2021 | VHL (via dCas9-HaloTag) | Degrade a **transcription factor**[^traftac] |
+| **AbTAC** | Wells lab, *JACS* 2021 | Membrane E3 RNF43 (bispecific Ab) | **Lysosomal** degradation of a surface protein[^abtac] |
+| **PROTAB** | Genentech, *Nature* 2022 | Transmembrane E3 (ZNRF3/RNF43) | Degrade a **cell-surface receptor**[^protab] |
+| **GlueTAC** | *JACS* 2021 | Covalent nanobody + lysosomal sorting | Degrade a **surface protein**[^gluetac] |
+
+Distinct again are **molecular glue degraders** — monovalent, no linker. **Lenalidomide** reprograms
+CRBN-CRL4 to degrade IKZF1/IKZF3 (Science 2014);[^lenalidomide_glue] **indisulam** glues splicing factor
+RBM39 to CUL4-DDB1;[^indisulam] and the CDK inhibitor **CR8** glues CDK12-cyclin K to DDB1 with no
+canonical substrate receptor.[^cr8]
+
+(Attribution notes worth flagging: **PHICS is the Choudhary lab, not Crews** — a common misattribution;
+PhosTAC and TRAFTAC are Crews lab; PhoRC (PP1, 2020) predates PhosTAC (PP2A, 2021) as the first
+phosphatase-recruiting chimera. Several of these have a preprint year preceding the journal year.)
+
+---
+
+## 12. Caveats on this survey
 
 - **The bridging mechanism is not settled** (Section 4.2). Pharmacological potency gains are robust, but
   whether they reflect true simultaneous two-protomer occupancy — versus avidity from membrane/secondary-
@@ -281,6 +425,18 @@ landmark approvals.[^bsab_cat][^blina]
   open-access PMC/PubMed records where possible and are flagged in the source notes.
 - The vepdegestrant FDA approval date (May 1, 2026) reflects reporting current as of this survey and is
   cited to the FDA approval page and corroborating trade press.
+- **Dimerization can hurt:** several "bivalent" attempts were worse than their monomers (huprine
+  homodimers ~29-fold weaker; the 5′-FSBA–tyrosine Abl conjugate bound only one site) — the design is not
+  automatically beneficial.
+- **Terminology is genuinely contested:** "bivalent," "bitopic," "dualsteric," and "multivalent" are used
+  inconsistently and sometimes interchangeably across the GPCR literature.
+- **Coverage gap:** a planned sub-survey of multivalent bacterial-toxin and lectin inhibitors (e.g., the
+  "STARFISH" Shiga-toxin inhibitor, pentameric AB5-toxin blockers, anti-adhesion glycoclusters) was not
+  completed because that biology-adjacent topic was withheld by automated safety filtering during
+  research; the general multivalency theory that underpins those designs is still captured in Section 8.
+- A number of obscure numeric values (e.g., the S26131 ">200-fold MT1" figure, some muscarinic
+  heterodimer Ki values) rest on secondary/review citations or abstracts where full text was paywalled,
+  and are flagged as such inline.
 
 ---
 
@@ -348,3 +504,55 @@ landmark approvals.[^bsab_cat][^blina]
 [^bro5]: "Drug discovery beyond the rule of 5." *Expert Opin Drug Discov* 2017. https://www.tandfonline.com/doi/full/10.1080/17460441.2017.1264385 ; "Oral Druggable Space beyond the Rule of 5." *Cell Chem Biol* 2014. https://www.cell.com/cell-chemical-biology/fulltext/S1074-5521(14)00289-0
 [^stoddart2019]: "2016 Philip S. Portoghese Lectureship: Designing Bivalent or Bitopic Molecules for GPCRs." *J Med Chem* 2019. https://pubmed.ncbi.nlm.nih.gov/31499001/
 [^dna_template]: "DNA-modularized construction of bivalent ligands." *Chem* 2022. https://www.cell.com/chem/fulltext/S2451-9294(22)00645-3
+
+<!-- Deep-dive / obscure additions (Sections 8–11) -->
+[^mammen1998]: Mammen M, Choi S-K, Whitesides GM. "Polyvalent Interactions in Biological Systems: Implications for Design and Use of Multivalent Ligands and Inhibitors." *Angew Chem Int Ed* 1998;37:2754–2794. https://www.gmwgroup.harvard.edu/publications/polyvalent-interactions-biological-systems-implications-design-and-use
+[^krishnamurthy_multivalency]: Krishnamurthy VM, et al. "Multivalency in Ligand Design." In *Fragment-based Approaches in Drug Discovery*, Wiley 2006. https://onlinelibrary.wiley.com/doi/10.1002/3527608761.ch2
+[^vanco_tri]: Rao J, Lahiri J, Isaacs L, Weis RM, Whitesides GM. "A trivalent system from vancomycin·D-Ala-D-Ala with higher affinity than avidin·biotin." *Science* 1998;280(5364):708–711. https://www.science.org/doi/10.1126/science.280.5364.708
+[^cluster]: "Cluster glycoside effect" (Y.C. Lee). See also *JACS* 2024. https://pubs.acs.org/doi/10.1021/jacs.4c08818
+[^kiessling]: Kiessling LL, et al. "Synthetic multivalent ligands as probes of signal transduction." https://pubmed.ncbi.nlm.nih.gov/16557636/ ; *Chem Soc Rev* 2016. https://pubs.rsc.org/en/content/articlehtml/2016/cs/c6cs00165c
+[^bis7tacrine]: Pang Y-P, Quinn DM, et al. "Highly potent, selective, and low cost bis-tetrahydroaminacrine inhibitors of acetylcholinesterase." *J Biol Chem* 1996;271:23646–23649. https://pubmed.ncbi.nlm.nih.gov/10208549/
+[^bistacrine_struct]: RCSB PDB 2CMF (Torpedo californica AChE with bis-tacrine). https://www.rcsb.org/structure/2CMF
+[^bistacrine_insect]: Kim et al. "Bis(n)-tacrines and insect AChE." *NeuroToxicology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC4739519/
+[^bis7_offtarget]: Li Y, et al. "Bis(7)-tacrine, off-target GABA(A)/NMDA/K+ channel activity." 1999. https://pubmed.ncbi.nlm.nih.gov/10208550/
+[^huprine_hetero]: Camps P, Formosa X, Muñoz-Torrero D, et al. "Huprine-tacrine heterodimers as anti-AChE agents." *J Med Chem* 2005. https://pubmed.ncbi.nlm.nih.gov/15771413/
+[^donepezil_tacrine]: Alonso D, et al. "Donepezil-tacrine hybrids; propidium displacement (PAS binding)." *Bioorg Med Chem* 2005. https://pubmed.ncbi.nlm.nih.gov/16230018/
+[^memoquin]: Bolognesi ML, et al. "Monomeric derivatives probing memoquin's bivalent interactions." 2011. https://pubmed.ncbi.nlm.nih.gov/22054058/
+[^huprine_homo]: Review of structural hybrids of AChE inhibitors (huprine homodimers weaker than monomer). https://www.heraldopenaccess.us/openaccess/the-structural-hybrids-of-acetylcholinesterase-inhibitors-in-the-treatment-of-alzheimer-s-disease-a-review
+[^hiv_sym]: "Symmetry-based inhibitors of HIV-1 protease" (review). https://www.sciencedirect.com/science/article/abs/pii/S0223523400800343
+[^hinnuliquinone]: Singh SB, et al. "Hinnuliquinone, a C2-symmetric HIV-1 protease inhibitor." *Biochem Biophys Res Commun* 2004. https://www.sciencedirect.com/science/article/abs/pii/S0006291X04020091
+[^hiv_dimerization]: Bowman AL, et al. "Crosslinked Peptoid-Based Dimerization Inhibitors of HIV-1 Protease." https://pmc.ncbi.nlm.nih.gov/articles/PMC4441096/
+[^eremomycin]: Solution-NMR characterization of eremomycin "back-to-back" dimerization. https://pubmed.ncbi.nlm.nih.gov/7994574/
+[^bullvalene]: Ottonello A, et al. "Shapeshifting bullvalene-linked vancomycin dimers against VRE/VRSA." *PNAS* 2023;120:e2208737120. https://pmc.ncbi.nlm.nih.gov/articles/PMC10104512/
+[^ca_model]: Krishnamurthy VM, et al. "Bivalent carbonic anhydrase II dimer model of avidity." *JACS* 2011. https://pubmed.ncbi.nlm.nih.gov/22088143/
+[^bisubstrate]: Lavogina D, Enkvist E, Uri A. "Bisubstrate analog inhibitors." Review. https://www.sciencedirect.com/science/article/abs/pii/S0163725802001845
+[^parang2001]: Parang K, Till JH, Ablooglu AJ, Kohanski RA, Hubbard SR, Cole PA. "Mechanism-based design of a protein kinase inhibitor." *Nat Struct Biol* 2001;8:37–41. https://pubmed.ncbi.nlm.nih.gov/11135668/
+[^abl]: Zhang J, et al. "Targeting Bcr-Abl by combining allosteric (myristate pocket) and ATP-site inhibitors." *Nature* 2010;463:501–506. https://www.nature.com/articles/nature08675
+[^abl_fail]: "Covalent bivalent ABL/SRC inhibitors; 5′-FSBA–tyrosine negative result." https://pmc.ncbi.nlm.nih.gov/articles/PMC3268058/
+[^nad]: Bisubstrate/NAD-cofactor mimics (EM-1745 for 17β-HSD; NNMT bisubstrate analogues). https://www.tandfonline.com/doi/full/10.1080/14756360601051423 ; https://pubs.acs.org/doi/10.1021/acs.jmedchem.9b00413
+[^musc_dualsteric]: Bock A, Mohr K, Holzgrabe U, et al. "Dualsteric muscarinic antagonist hybrids." *J Med Chem* 2014. https://pubmed.ncbi.nlm.nih.gov/25051097/
+[^methoctramine]: Methoctramine as early homobivalent M2 antagonist; see Portoghese Lectureship review. https://pmc.ncbi.nlm.nih.gov/articles/PMC8281448/
+[^melatonin]: O-linked melatonin dimers. *Bioorg Chem* 2019. https://pubmed.ncbi.nlm.nih.gov/30658234/ ; bitopic MT1 series. https://pubmed.ncbi.nlm.nih.gov/21775151/ ; S26131 in Jockers review. https://pubs.acs.org/doi/10.1021/jm401343c
+[^mel_h3]: Pala D, et al. "Melatonergic/histaminergic H3 bivalent ligands." *Int J Mol Sci* 2014;15:16114–16133. https://pmc.ncbi.nlm.nih.gov/articles/PMC4200786/
+[^sigma]: "MAM03055A, first homobivalent σ2/TMEM97-selective ligand." ~2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8736263/
+[^npy]: Keller M, Kaske M, Holzammer T, Bernhardt G, Buschauer A. "Dimeric argininamide-type NPY Y1/Y4 antagonists." *Bioorg Med Chem* 2013;21:6303–6322. https://pubmed.ncbi.nlm.nih.gov/24074877/ ; 1229U91 (Y4 agonist). https://www.sciencedirect.com/science/article/pii/S0143417924000155
+[^oligoproline]: Oligoproline-scaffold homobivalent GRP-R / SST2 ligands. *PNAS* 2021. https://www.pnas.org/doi/10.1073/pnas.2108776118
+[^rgd]: Cyclic RGD dimers/tetramers for αvβ3 (radiotracer bivalency). https://pmc.ncbi.nlm.nih.gov/articles/PMC2795072/
+[^photoswitch]: Photoswitchable allosteric/dualsteric GPCR ligands (review). https://www.sciencedirect.com/science/article/pii/S0165614725000999 ; bidirectional photoswitchable H3R ligands. *JACS* 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC5879491/
+[^dv1]: Choi W-T, et al. "DV1-dimer: disulfide-linked covalent bivalent CXCR4 probe." 2012. https://pmc.ncbi.nlm.nih.gov/articles/PMC3476724/
+[^nmda]: Ifenprodil as GluN1/GluN2B NTD-interface NAM (not a tethered bivalent). https://pmc.ncbi.nlm.nih.gov/articles/PMC4859819/
+[^ribotac]: Costales MG, Matsumoto Y, Velagapudi SP, Disney MD. "RIBOTAC: small molecule recruits RNase L to degrade pre-miR-96." *JACS* 2018;140:6741–6744. https://pubs.acs.org/doi/10.1021/jacs.8b01233
+[^dubtac]: Henning NJ, Nomura DK, et al. "DUBTACs stabilize proteins via OTUB1 recruitment." *Nat Chem Biol* 2022;18:412–421. https://www.nature.com/articles/s41589-022-00971-2
+[^phics]: Siriwardena SU, Choudhary A, et al. "Phosphorylation-inducing chimeric small molecules (PHICS)." *JACS* 2020;142:14052–14057. https://pubs.acs.org/doi/10.1021/jacs.0c05537
+[^phorc]: Yamazoe S, et al. "Phosphatase-recruiting chimeras (PhoRC) dephosphorylating AKT/EGFR via PP1." *J Med Chem* 2020;63:2807. https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.9b01167
+[^phostac]: Hu Z, Crews CM, et al. "PhosTAC: PP2A recruitment for targeted dephosphorylation." *ACS Chem Biol* 2021. https://pubs.acs.org/doi/abs/10.1021/acschembio.1c00693
+[^riptac]: Halda Therapeutics. "RIPTACs: regulated induced proximity targeting chimeras." bioRxiv 2023; *Cell Chem Biol* 2024. https://www.cell.com/cell-chemical-biology/fulltext/S2451-9456(24)00307-6
+[^attec]: Li Z, Lu B, et al. "ATTECs tether mutant huntingtin to LC3 for autophagic degradation." *Nature* 2019;575:203–209. https://www.nature.com/articles/s41586-019-1722-1
+[^autotac]: Ji CH, Kwon YT, et al. "AUTOTAC: p62/SQSTM1-targeting autophagy degraders." *Nat Commun* 2022;13:904. https://www.nature.com/articles/s41467-022-28520-4
+[^traftac]: Samarasinghe KTG, Crews CM, et al. "TRAFTACs degrade transcription factors via VHL." *Nat Commun* 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8524358/
+[^abtac]: Cotton AD, Wells JA, et al. "AbTACs: bispecific antibodies recruiting RNF43 to degrade PD-L1." *JACS* 2021;143:593. https://pubs.acs.org/doi/10.1021/jacs.0c10008
+[^protab]: Marei H, et al. (Genentech). "PROTABs: antibody-based transmembrane-E3 degraders." *Nature* 2022;609:1012. https://www.nature.com/articles/s41586-022-05235-6
+[^gluetac]: "GlueTAC: covalent nanobody surface-protein degrader." *JACS* 2021. https://pubs.acs.org/doi/abs/10.1021/jacs.1c08521
+[^lenalidomide_glue]: Krönke J, et al. "Lenalidomide causes CRBN-dependent degradation of IKZF1/IKZF3." *Science* 2014. https://www.science.org/doi/10.1126/science.1244851
+[^indisulam]: Han T, et al. "Anticancer sulfonamides glue RBM39 to DCAF15." *Science* 2017;356:eaal3755. https://www.science.org/doi/10.1126/science.aal3755
+[^cr8]: Slabicki M, et al. "CR8 glues CDK12-cyclin K to DDB1." *Nature* 2020;585:293. https://www.nature.com/articles/s41586-020-2374-x
