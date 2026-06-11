@@ -359,6 +359,55 @@ brain target non-invasively; (b) pulsatile reward-system dosing is unproven and 
 network state that no single-receptor drug reproduces at all. The reframing makes the problem
 honest and tractable — it does not make it solved.
 
+## 3e. Following the temporal thread to its end: the two-failure-mode trap
+
+§3d left an open, tractable question: if continuous occupancy causes tolerance, does *pulsatile/
+phasic* delivery — the GnRH trick — escape it for the reward system too? Investigated without
+assuming the answer, the evidence is unusually clean, and it closes the loophole — not by fiat,
+but because the reward system's wanting/liking architecture (§1) makes the two available
+delivery patterns fail in *opposite* directions:
+
+- **Continuous / steady occupancy → hedonic tolerance.** Liking downregulates; the effect fades.
+  (The set-point story, correctly scoped.)
+- **Intermittent / pulsatile delivery → escapes hedonic tolerance, but is THE pattern that
+  drives incentive-sensitization of *wanting*.** This is the single most robust result in the
+  addiction literature: it is specifically **intermittent** exposure that sensitizes mesolimbic
+  dopamine "wanting." Kawa et al. showed **intermittent** cocaine access produces dopamine and
+  incentive sensitization, while **continuous long-access** produces the opposite (decreased
+  stimulant-induced dopamine — i.e., tolerance). Variable/uncertain intermittent reward
+  (gambling, social media) is the *most* sensitizing of all.
+  ([Robinson & Berridge, IST 30 years on, 2025](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-011624-024031);
+  [Kawa et al., intermittent vs. long-access cocaine, *Eur J Neurosci* 2019](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.14418);
+  [Engineered highs: reward variability & frequency, 2023](https://www.sciencedirect.com/science/article/pii/S0306460323000217))
+
+**Why the GnRH analogy breaks here.** Pulsatile GnRH works because the pituitary axis has no
+"wanting" system — only a desensitization curve to outrun. The reward system has *both*: a
+liking substrate that tolerates under steady stimulation **and** a wanting substrate that
+sensitizes under pulsatile stimulation. There is no delivery schedule that satisfies both at
+once. The steady pattern that protects against wanting-sensitization is the one that tolerates
+out the liking; the pulsatile pattern that protects the liking is the one that builds compulsive
+wanting. **That is the trap, stated precisely — and it is intrinsic to occupancy-based reward
+delivery, not to any particular molecule.**
+
+**The clinic confirms it.** Real attempts to *sustain* a reward-adjacent effect by repeated
+dosing run into exactly this: maintenance ketamine shows **tachyphylaxis** and high relapse in
+the longer-term data; antidepressant "loss of efficacy" appears in **9–57%** of maintenance
+patients, and dose escalation *worsens* it.
+([maintenance ketamine systematic review, 2022](https://pubmed.ncbi.nlm.nih.gov/36244360/);
+[antidepressant loss-of-efficacy review, 2018](https://www.sciencedirect.com/science/article/abs/pii/S1043661818312015))
+
+### What this leaves standing
+The investigation, run without assuming its outcome, converges on a clear structural result:
+**any strategy based on *sustaining reward-receptor occupancy* — at any temporal pattern — hits
+one of two failure modes.** The approaches that actually deliver durable wellbeing
+(psychoplastogens §3b, single-dose psychedelics, jhana §3c, KOR antagonism §3.1) all share one
+feature that takes them *off this axis entirely*: **they do not maintain occupancy.** They
+induce a lasting structural or network change and then *stop* — so there is no steady stimulus
+to tolerate and no pulsatile stimulus to sensitize against. That is not an evasion of the goal;
+it is the evidence naming which axis is a dead end and which one isn't. The durable, non-
+addictive path runs through **inducing change and letting go**, not through engineering a
+perfect dosing schedule for a perpetual high.
+
 ## 4. Which avenues are most promising — and the honest verdict
 
 **Ranked by "wellbeing/relief per unit of dependence risk," strongest first:**
