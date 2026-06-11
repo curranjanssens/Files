@@ -408,6 +408,53 @@ it is the evidence naming which axis is a dead end and which one isn't. The dura
 addictive path runs through **inducing change and letting go**, not through engineering a
 perfect dosing schedule for a perpetual high.
 
+## 3f. Assumption-free audit: all the evidence on sustainable euphoria
+
+Searched without presupposing the answer in either direction — looking specifically for the
+candidates *claimed* to resist tolerance, not just the ones expected to fail. The evidence sorts
+into a sharp and consistent pattern, with one genuinely interesting pharmacological outlier.
+
+| Source of euphoria | Tolerance to the euphoria? | Mechanism | Verdict |
+|---|---|---|---|
+| **MDMA** | Severe, rapid — even *acute* within-session ("loss of magic"); +neurotoxicity | 5-HT/DA release, then depletion | Strong tolerance |
+| **Classic psychedelics** (LSD, psilocybin, mescaline) | **Tachyphylaxis in ~3–4 days of daily use** — effect *vanishes*; cross-tolerance | 5-HT2A downregulation | Euphoria not sustainable *daily*; benefit only via spaced/single dosing (§3b) |
+| **Opioids / tianeptine** | Yes; tianeptine became a street drug ("ZaZa") with tolerance, dependence, leukoencephalopathy | µ-opioid agonism | Strong tolerance + dependence |
+| **Stimulants, alcohol, cannabis, GHB** | Yes, all | Various occupancy/release | Strong tolerance |
+| **Exercise "runner's high"** | **No** — repeatable daily, "slow-burn," hours-long, no crash | **Endocannabinoid (anandamide)** — *not* opioid (naloxone doesn't block it) | **Sustainable, endogenous** |
+| **Music "chills," flow, dance, social bonding, intimacy** | **No** | Endogenous striatal dopamine, self-generated | **Sustainable, endogenous** |
+| **Jhana** (§3c) | **No** (grows more resilient with practice) | Endogenous, self-regulated, distributed | **Sustainable, endogenous** |
+| **Bromantane** (Ladasten) | **Reportedly none** — no tolerance, dependence, or withdrawal; benefits persisted **1 month after stopping** | **Upregulates tyrosine hydroxylase → raises dopamine *synthesis capacity*** rather than releasing/blocking existing DA | **Outlier — see below** |
+
+### The dividing line is clean
+Every **exogenous, receptor-occupancy** euphoriant tolerates (or, if pulsed, sensitizes wanting —
+§3e). Every **endogenous, self-generated** euphoria (exercise, music, flow, jhana) is **reliably
+repeatable without tolerance.** That is the single most consistent fact in this entire survey,
+and it is the empirical backbone of the "induce-and-release / endogenous" thesis — arrived at
+from the data, not assumed.
+
+### The one genuine pharmacological outlier worth pursuing: the *synthesis-capacity* mechanism
+**Bromantane** is the most interesting exception in the literature because it does *not* work by
+occupying or flooding receptors. It **upregulates tyrosine hydroxylase**, increasing the brain's
+*capacity to synthesize* dopamine — nudging the endogenous supply rather than substituting for
+it. In a Russian trial (50–100 mg/day × 28 days) it improved fatigue in ~76% with mood/
+motivation benefits that **persisted a month after discontinuation**, and is reported to lack
+tolerance, dependence, and withdrawal.
+([Bromantane overview & Ladasten trial](https://en.wikipedia.org/wiki/Bromantane))
+
+Why this matters mechanistically: a drug that **raises endogenous synthesis capacity** sits
+*off* the two-failure-mode axis (§3e) the same way endogenous states do — there is no exogenous
+agonist bolus for the receptor to tolerate against or the dopamine system to read as a chaseable
+cue. This is the closest thing in the literature to a pharmacological version of the endogenous
+principle, and it defines a **class to investigate**: agents that *increase the brain's own
+capacity for reward signaling* (synthesis enzymes, precursor availability, trophic/plasticity
+support — cf. psychoplastogens §3b) rather than agents that *supply* the signal.
+
+Honest caveats, stated plainly: bromantane is a mild **anti-asthenic/adaptogen, not a "high"** —
+it lifts mood and motivation, it does not produce recreational euphoria; the strong evidence is
+largely Russian-language with limited independent replication; long-term human data are sparse;
+and "increases synthesis capacity" does not guarantee the *absence* of an eventual ceiling or
+compensatory downregulation that better studies might reveal. It is a **lead, not a landing.**
+
 ## 4. Which avenues are most promising — and the honest verdict
 
 **Ranked by "wellbeing/relief per unit of dependence risk," strongest first:**
