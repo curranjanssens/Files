@@ -15,16 +15,32 @@ dopaminergic "wanting." Any agent optimized for a euphoric *spike* recruits its 
 cancellation. The orexin system offers a route **around** that wall — but only via
 a specific receptor.
 
-**The OX1R / OX2R split is the seam:**
-- **OX1R** drives panic/anxiety and feeds the VTA dopamine reward/relapse pathway.
-  OX1R antagonists are anxiolytic (JNJ-61393215 cut CO2-panic in humans like
-  alprazolam, [Nature Transl Psych 2020](https://www.nature.com/articles/s41398-020-00937-9)).
-- **OX2R** supports wakefulness, motivation, and — in animal models — is anxiolytic
-  and anti-anhedonic, **without** engaging the OX1R→VTA reward/abuse pathway.
+**The OX1R / OX2R split is the seam — robust core:**
+- **OX1R** drives panic/anxiety. OX1R antagonism is anxiolytic across rodent CO2 and
+  sodium-lactate panic models, in a human CO2-challenge (JNJ-61393215, alprazolam-comparable,
+  [Transl Psych 2020](https://www.nature.com/articles/s41398-020-00937-9)), and a HCRTR1
+  panic-disorder genetic association. **High confidence.**
+- **OX2R-selective agonism drives arousal/wakefulness WITHOUT the conditioned-place-preference
+  (reward/abuse) signal that tracks OX1R** — the cleanest dissociation in the literature
+  ([PMC9307173](https://pmc.ncbi.nlm.nih.gov/articles/PMC9307173/)). **High confidence.**
+  This is the load-bearing finding: arousal and hedonic benefit separable from the reward-spike.
 
-This means an **OX2R-selective agonist** can lift arousal, motivation, and hedonic
-capacity while structurally avoiding the reward-spike that causes tolerance and
-addiction. That is the mechanistic shape of "feels good and keeps working."
+**Honest complications (the thesis red-teamed):**
+- The effort/motivation/reward-seeking literature is predominantly **OX1R-mediated**
+  (Borgland 2009, [J Neurosci 29:11215]) — so "OX2R = motivation" is weak. OX2R's clean
+  effect is *arousal*, not motivation per se.
+- OX2R on mood is **bidirectional**: an OX2R *antagonist* (LSN2424100) is antidepressant-like
+  in DRL-72s ([PMC3904085](https://pmc.ncbi.nlm.nih.gov/articles/PMC3904085/)), directly
+  contradicting the OX2R-agonist resilience studies; OX2R is also recruited in HPA/sympathetic
+  stress. OX2R is not purely "the safe arm."
+- OX2R-anxiolytic findings come from a few labs/specific circuits (BLA, VTA, social-defeat)
+  and conflict with anxiogenic OX2R findings elsewhere (NAc shell).
+
+**Defensible summary**: OX1R ≈ threat/panic/salience-effort arm (antagonism is anxiolytic
+and reduces reward-seeking). OX2R ≈ arousal/wake-stabilization arm with low intrinsic reward
+liability, whose mood/anxiety effects are circuit-dependent and bidirectional, not uniformly
+beneficial. An OX2R-selective agonist plausibly lifts arousal with low addiction liability —
+but its mood/anhedonia benefit is a genuine open question, not an established fact.
 
 ## The decisive finding: no tolerance, no addiction signal — already in humans
 
