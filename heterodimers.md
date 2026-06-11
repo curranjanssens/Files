@@ -87,10 +87,24 @@ neuropathic pain and the associated **µ-opioid receptor–Gs coupling** — aga
 **Major caveat — the two foundational FLNA papers were RETRACTED in March 2022**
 (*PLoS ONE* e1554 and e4282) for image-integrity problems (spliced Western blots,
 duplicated panels, missing controls), as part of the broader Cassava Sciences/simufilam
-research-integrity investigation. The corresponding author disputed the retractions.¹³
-The FLNA mechanism — the field's "dominant" ULDN explanation — must therefore be treated
-as unreliable. Note also the conflict of interest: Burns/Wang were tied to the Oxytrex
-program and hold FLNA-binding analgesic patents.
+research-integrity investigation. The corresponding author (Wang) disputed the
+retractions, attributing the anomalies to scanner artifacts.¹³ **The retractions stand,
+and no independent laboratory has replicated the FLNA–naloxone high-affinity binding or
+the µ-receptor Gs-coupling switch** — every supporting publication traces back to
+Wang/Burns. The FLNA mechanism — the field's "dominant" ULDN account — must therefore be
+treated as unverified/unreliable. Note also the conflict of interest: Burns and Wang were
+tied to the Oxytrex/Cassava program (Burns is married to the company's founder-CEO) and
+hold FLNA-binding analgesic patents.
+
+*Fairness note on the misconduct question (as of mid-2026):* the data-integrity concerns
+extend beyond Alzheimer's work to these opioid papers, and a 2024 SEC action led to a
+~$40M company settlement and a penalty/officer-bar for Burns over *simufilam* disclosures.
+However, the *scientific-fraud* allegations against Wang were **not proven**: CUNY's final
+2025 report concluded misconduct "could not be proven," and in October 2025 federal
+prosecutors **dropped all criminal charges against Wang with prejudice** (no conviction,
+no guilty plea). The retractions, the failed trial, and the absence of independent
+replication are the load-bearing facts here; intentional fabrication should be stated as
+an unresolved allegation, not an established finding.
 
 ### 2c. Glial TLR4 / (+)-naloxone — separate and contested
 A parallel strand attributes some (+)-naloxone effects to blockade of glial **TLR4**
@@ -232,7 +246,10 @@ attractive but speculative.
 13. *PLoS ONE* retraction notices (March 2022):
     https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266627 and
     https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266629 ;
-    Retraction Watch https://retractionwatch.com/2022/03/30/five-studies-linked-to-cassava-biosciences-retracted/
+    Retraction Watch https://retractionwatch.com/2022/03/30/five-studies-linked-to-cassava-biosciences-retracted/ .
+    SEC action (Sept 2024) https://www.sec.gov/newsroom/press-releases/2024-151 ;
+    charges dropped with prejudice (Oct 2025)
+    https://www.law.com/newyorklawjournal/2025/10/31/after-jury-selection-in-science-fraud-case-against-former-cuny-professor-prosecutors-drop-all-charges/
 14. Watkins LR, Hutchinson MR, et al. *Trends Pharmacol Sci*. 2009.
     https://pmc.ncbi.nlm.nih.gov/articles/PMC2783351/
 15. Skolnick P, et al. *Trends Pharmacol Sci*. 2014. PMID 25109569 (and reply 25109571).
