@@ -18,10 +18,18 @@ competing answers to "what is the opposing output," differing sharply in evident
 **1. Crain & Shen bimodal Gs/Gi model.** Opioid receptors on DRG nociceptive neurons
 couple to BOTH inhibitory Gi/o (shortens action-potential duration → analgesia) and
 excitatory Gs (prolongs APD → hyperalgesia/tolerance). Picomolar naltrexone selectively
-blocks the Gs mode; nanomolar blocks both. GM1 ganglioside regulates the switch.
-- The DRG electrophysiology is reproducible — **but only in their own lab; never
-  independently replicated**, and Gs-coupling is not part of mainstream MOR pharmacology.
+blocks the Gs mode; nanomolar blocks both. GM1 ganglioside regulates the switch (cholera-
+toxin-B, which binds GM1, selectively blocks the excitatory mode).
+- **Crucially, this work is INDEPENDENT of and PREDATES the filamin-A fraud by ~20 years**
+  (DRG electrophysiology 1988–1998; filamin-A proposed 2008). Crain & Shen's own mechanism
+  was GM1/Gs/cAMP, not filamin A — so discarding the fraud does not invalidate this layer.
   [PNAS 1995, PMC40647](https://pmc.ncbi.nlm.nih.gov/articles/PMC40647/)
+- **Partial independent corroboration exists**: bimodal cAMP coupling (Wang & Gintzler 1994,
+  separate lab); rodent anti-tolerance ([Powell 2002, PMID 11805221](https://pubmed.ncbi.nlm.nih.gov/11805221/)).
+  **But the therapeutic effect is strain-dependent** (works in Sprague-Dawley/Long-Evans,
+  not F344/Lewis rats — [PMID 16527399](https://pubmed.ncbi.nlm.nih.gov/16527399/)) and Gs-coupling
+  is not part of mainstream MOR pharmacology. Sound phenomenology, contested mechanism,
+  fragile translation.
 
 **2. MOR–DOR heteromer (the cleanest, best-supported, non-fraudulent lead).** Chronic
 morphine upregulates mu–delta heterodimers, which are **anti-analgesic** (right-shift the
