@@ -200,6 +200,49 @@ downregulation) — the opposite of a reinforcing euphoriant.
 
 ---
 
+## 3b. Animal evidence for *durable* PTSD treatment (the "sustainable over time" problem)
+
+Single-course MDMA-assisted therapy can relapse in the most severe patients, so the live
+question is which mechanisms give benefit that *holds* and can be *safely repeated*. The
+preclinical literature points to one unifying answer: **the durable approaches work by
+consolidating new learning or structural plasticity, not by chronic receptor occupancy** — so
+the benefit persists after the drug clears and re-dosing doesn't fight the opponent-process
+machinery. This is the deficit-correction / plasticity-window principle (§2.2) applied to fear.
+
+| Mechanism (animal evidence) | What the preclinical data show | Durability / repeatability | Translation caveat |
+|---|---|---|---|
+| **Psychoplastogens** (tabernanthalog/TBG, non-hallucinogenic ibogaine analog) | Promote cortical structural neuroplasticity via 5-HT2A→TrkB→mTOR→AMPA; given before extinction training, *strengthen fear-extinction memory* more than training alone; **no head-twitch / hallucinogenic signature**, and TBG induces plasticity *without* the glutamate burst or immediate-early-gene activation of classic psychedelics | Designed for repeatability; non-hallucinogenic profile makes maintenance dosing plausible | Early preclinical; human data nascent |
+| **Classic psychedelics** (psilocybin, LSD) | A **single dose grows dendritic spines in frontal cortex within 24 h that persist ~1 month**; repeated low doses in chronic-stress models reverse anhedonia and despair; LSD during chronic restraint stress reverses structural + behavioral deficits | Structural change outlasts drug exposure → durable from intermittent dosing | Acute psychological risk; needs supported setting |
+| **Ketamine / (2R,6R)-HNK** | Single dose + extinction training enhances extinction recall and reduces fear renewal days later via **mPFC mTORC1**; *repeated* low-dose induces persistent **stress resilience** (prophylactic); long-term dosing + extinction drives **fear "erasure" via BDNF methylation** | Repeated dosing studied directly; resilience effect is prophylactic and lasting | Highest abuse-liability of this set (§3.3) — re-dosing needs care |
+| **Endocannabinoid / FAAH inhibition** (URB597) | FAAH inhibition in basolateral amygdala / hippocampus **facilitates long-term fear extinction** and rescues deficient extinction by restoring anandamide–CB1 signaling; FAAH C385A carriers show faster extinction | Acts by normalizing a deficit toward baseline → mechanistically sustainable | **A 100-patient PTSD RCT of a FAAH inhibitor was no better than placebo** — sharp translation gap |
+| **Reconsolidation blockade** (propranolol post-reactivation) | Robustly blocks fear-memory reconsolidation across rodent paradigms (inhibitory avoidance, contextual, auditory) by destabilizing reactivated memory | One-shot memory weakening rather than chronic dosing | Human PTSD trials inconsistent; depends on engaging memory destabilization, which often fails clinically |
+
+**Reading the table for a program:** the strongest *durable + repeatable* preclinical signal is
+the **psychoplastogen / neuroplasticity axis** (TBG and psilocybin-like spine growth), because
+the therapeutic unit is a *lasting structural change* you can re-induce intermittently rather
+than a state you must chronically maintain. Ketamine's **prophylactic resilience** result is the
+other standout. The endocannabinoid and reconsolidation routes have elegant animal mechanisms
+but the **clearest translation failures** so far — a reminder that rodent fear-extinction wins
+are necessary, not sufficient.
+
+Sources: psychoplastogens/TBG —
+[Olson, *ACS Pharmacol* 2018](https://journals.sagepub.com/doi/10.1177/1179069518800508),
+[TBG without IEG activation, *Nat Neurosci* 2025](https://www.nature.com/articles/s41593-025-02021-1),
+[Tabernanthalog overview](https://en.wikipedia.org/wiki/Tabernanthalog);
+psilocybin/LSD spine growth —
+[*Neuron* 2021](https://www.cell.com/neuron/fulltext/S0896-6273(21)00423-2),
+[chronic-stress model, *Transl Psychiatry* 2025](https://www.nature.com/articles/s41398-025-03421-4);
+ketamine + extinction —
+[mTORC1 review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5907920/),
+[BDNF-methylation fear erasure, *Front Cell Neurosci* 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5398013/),
+[preclinical review, *Front Neurosci* 2025](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1546460/full);
+FAAH —
+[amygdala FAAH/anandamide, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7511205/),
+[FAAH inhibitor PTSD RCT, *Transl Psychiatry* 2026](https://www.nature.com/articles/s41398-026-03864-3);
+reconsolidation —
+[propranolol reconsolidation, *Br J Pharmacol* 2015](https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.13272),
+[propranolol PTSD meta-analysis, *J Psychiatr Res* 2022](https://www.sciencedirect.com/science/article/abs/pii/S0022395622001741).
+
 ## 4. Which avenues are most promising — and the honest verdict
 
 **Ranked by "wellbeing/relief per unit of dependence risk," strongest first:**
