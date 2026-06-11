@@ -92,7 +92,17 @@ Negative: ergoline (pergolide/terguride) dimers — dimerization did not improve
 
 ## 5. mGlu (metabotropic glutamate, class C)
 
-Only two synthesized mGlu-containing bivalents exist: **MMG22** (MOR–mGlu5; §2) and **22a** (D2–mGlu5; §3). No published homobivalent for mGlu1, mGlu2/3, or pure mGlu5; no mGlu5–A2A or mGlu2–5HT2A heterobivalent (heteromer characterization only).
+| Compound | Pharmacophores (pharmacology) | Dimer target | Linker / optimal spacer | Lab / year | Key reference |
+|---|---|---|---|---|---|
+| **MMG22** (MOR–mGlu5; see §2) | oxymorphone μ **agonist** + M-MPEP mGlu5 **NAM** | MOR–mGlu5 | **22 atoms optimal** | Akgün/Portoghese, 2013 | *PNAS* 2013, PMC3710855 |
+| **22a** (D2–mGlu5; see §3) | DPAT D2 ligand + MTEP mGlu5 **NAM** | D2R–mGlu5 | **20 atoms optimal** | Van Calenbergh (Ghent), 2018 | *J Med Chem* 2018, 61:8212 |
+| **VU6023800 (14d) / VU6023804 (14h)** (series 14a–14i, 9 cmpds) | indane mGlu2 **PAM** (cmpd 10) + benzamide mGlu4 **PAM** (cmpd 9) | mGlu2/4 heterodimer (designed); lead is **mGlu2/2 homodimer**-selective | polyamine tethers of varying length; **14d** potentiates mGlu2/4 het (both agonists present); **14h** = 75× preference for mGlu2/2 homodimer over mGlu2/4 het or mGlu4/4 | Fulton/Niswender/Conn/Lindsley (Vanderbilt VCNDD; Javitch, Columbia), 2020 | *Bioorg Med Chem Lett* 2020, 30:127212, PMID 32371100 |
+| **5-HT2A×mGlu2 heterobivalents (7 cmpds)** (also §4) | MDL-100,907 5-HT2A **antagonist** + JNJ-42491293 mGlu2 **ago-PAM** | 5-HT2A–mGlu2 (putative heteromer) | variable spacer; **no length–potency correlation**; bivalents inhibit 5-HT- (and Glu-) responses in co-expressing cells | Bunch et al. (Copenhagen), 2020 | *J Med Chem* 2020, 63:9928, PMID 32815361 |
+
+**mGlu2:** Two genuine bivalent series reach mGlu2 — Vanderbilt mGlu2-PAM × mGlu4-PAM tethered ligands (lead **14h/VU6023804** is mGlu2/2-homodimer-selective) and Copenhagen 5-HT2A × mGlu2 heterobivalents. No pure mGlu2 *homo*bivalent from two identical mGlu2 pharmacophores.
+**mGlu4:** Covered only by the same Vanderbilt mGlu2-PAM × mGlu4-PAM series (mGlu4 PAM = one terminus); no mGlu4 homobivalent and no other mGlu4-containing bivalent reported.
+**mGlu3:** **Genuinely empty** — no bivalent, bitopic-spacer, or dualsteric two-pharmacophore-tethered ligand reported for mGlu3 (despite well-characterized mGlu2/3 and mGlu3 homodimer structures and standard PAMs/NAMs).
+No published homobivalent for mGlu1; no mGlu5–A2A heterobivalent (heteromer characterization only).
 
 ---
 
