@@ -455,6 +455,70 @@ largely Russian-language with limited independent replication; long-term human d
 and "increases synthesis capacity" does not guarantee the *absence* of an eventual ceiling or
 compensatory downregulation that better studies might reveal. It is a **lead, not a landing.**
 
+## 3g. Systematic mechanistic taxonomy of the sustainable path
+
+The deeper sweep converts the single bromantane lead into a structured map. Four mechanistic
+classes recur across the literature as routes to mood/reward elevation that resist tolerance —
+and all four share the feature of **not delivering an exogenous supranormal reward bolus.**
+
+**Class A — Endogenous-capacity enhancers** (raise the brain's *ability to make* dopamine):
+- Bromantane upregulates **both tyrosine hydroxylase (TH) and aromatic L-amino-acid
+  decarboxylase**, producing prolonged (~8 h) dopamine release; effects *build over 3–5 days and
+  persist after stopping* — the signature of a synthesis/expression change, not acute agonism.
+  Likely sigma-1-linked; precise trigger unknown.
+  ([Bromantane](https://en.wikipedia.org/wiki/Bromantane);
+  [microdialysis 8 h DA release, *Bull Exp Biol Med*](https://link.springer.com/article/10.1007/BF02445840))
+- The same enzymatic node is driven by **neurotrophins**: GDNF and BDNF increase TH activity via
+  Ser19/31/40 phosphorylation, *distinct from receptor agonism*; even metformin raises TH
+  phosphorylation alongside BDNF/GDNF.
+  ([GDNF→TH, *J Biol Chem*](https://pubmed.ncbi.nlm.nih.gov/14570886/);
+  [TH regulation review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3065393/))
+
+**Class B — Endogenous-tone extenders** (amplify a signal only where/when the brain already
+releases it): **FAAH inhibition** raises anandamide and shows **less CB1 downregulation and
+desensitization than THC**, *because* its action is "on-demand" — it augments CB1 signaling only
+in circuits already recruiting anandamide, rather than flooding all receptors. This is the
+pharmacological extension of the **runner's-high (anandamide) mechanism**, with antidepressant-
+like activity in preclinical models.
+([FAAH−/− differential tolerance vs THC, *Neuropsychopharmacology*](https://www.nature.com/articles/npp201044);
+[anandamide antidepressant-like activity, PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC1317988/))
+*Caveat from §3b: a FAAH inhibitor failed a PTSD-extinction RCT — endpoint-dependent.*
+
+**Class C — Plasticity inducers** (induce a lasting structural change, then stop):
+psychoplastogens, psychedelics, ketamine (§3b). Antidepressant efficacy in general is now
+understood to be **mediated by neuroplasticity** — the weeks-long delay reflects dendritic/
+synaptic remodeling, not reuptake — i.e., durable wellbeing is a *structural re-adaptation*, not
+a maintained drug level.
+([neuroplasticity as antidepressant mediator, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3025168/))
+
+**Class D — Disinhibitors** (remove a brake on endogenous reward): KOR antagonists (§3.1);
+**scopolamine** (muscarinic antagonist) produces rapid, robust antidepressant effects via a
+non-monoamine cholinergic mechanism.
+([scopolamine RCT, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3250308/))
+
+### The design constraint that unifies them (and bounds the goal)
+The deeper literature finally explains *why* endogenous reward escapes tolerance — and it is two
+quantitative properties, not a metaphysical difference:
+
+1. **Magnitude.** Drug-induced dopamine release is **2–10× larger** than natural reward. It is
+   the *supranormal* magnitude that recruits counter-adaptation. Natural reward is moderate.
+2. **Homeostatic embedding.** Natural reward is gated by feedback loops (leptin, insulin, ghrelin
+   on dopamine neurons; satiety/alliesthesia scaling "wanting" in parallel with "liking"). Drugs
+   bypass these loops; **natural and drug rewards engage distinct pathways** that only converge
+   downstream.
+   ([natural vs. drug reward distinct pathways, *Neuron* 2019](https://www.cell.com/neuron/fulltext/S0896-6273(19)30526-4);
+   [homeostatic control of dopaminergic reward-seeking, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3251719/))
+
+**This is the precise, evidence-based boundary on the whole project:** a sustainable agent must
+keep reward signaling *within the physiological, homeostatically-regulated range* — it can
+**raise a deficient baseline toward optimal** (treat anhedonia, lift a depressed set-point) and
+do so durably; it **cannot hold a supranormal "high" above that range** without re-entering the
+tolerance/sensitization regime, because supranormal magnitude is *itself* the adaptation trigger.
+The four classes above all obey this: they optimize, extend, or restore endogenous signaling
+rather than overpower it. That is the design rule the data actually support — and it is also the
+honest ceiling: "sustainable euphoria" is achievable as *durably restored normal-to-optimal
+hedonic capacity*, not as a permanent supranormal high.
+
 ## 4. Which avenues are most promising — and the honest verdict
 
 **Ranked by "wellbeing/relief per unit of dependence risk," strongest first:**
