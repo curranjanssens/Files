@@ -86,6 +86,43 @@ inhibitory-block magnitudes to be structurally matched, pointing to a **single-e
 push-pull** (e.g., both arms converging on the same cAMP pool), the one configuration that
 yields flat-zero for free.
 
+## Cross-system test of the "same-receptor → sharp cliff" law (added after verification)
+
+A wider-lens hypothesis was tested: that the sudden-dropout cliff appears *iff* the
+ultra-low antagonist hits the SAME receptor as the agonist (MOR, CB1, D2 = cliff;
+DOR, α2 = smooth). Verified across all five legs. **The strong law did NOT survive.**
+
+| Leg | Potentiation real? | Sharp cliff actually measured? | Independent of Crain/Wang/Bear lineage? |
+|---|---|---|---|
+| MOR | yes, multi-lab | asserted (Oxytrex 2µg vs 4µg; buprenorphine 166:1) — **full curve never mapped** | mixed (Cahill glial = independent; Gs-switch = Wang, retracted) |
+| CB1 | yes (Dehpour independent) | **NO — broad window over several log units, not a cliff** | behavioral yes; Gs-switch = Wang |
+| DOR | yes | **never measured (single-dose studies)** | no (Queen's lineage; framed as *same* biphasic mechanism) |
+| α2 | yes | never measured; inverts to blockade at higher dose | no (Queen's lineage) |
+| D2 | **patent-only (Bear/Kessler, n=5 RLS, abandoned)** | **no — asserted, derivative of retracted filamin-A** | **no — cites the retracted opioid work** |
+
+**What survives:** ULD-antagonist *potentiation* of a co-applied agonist is a real,
+multi-system, partly-independently-replicated behavioral phenomenon (Dehpour/CB1,
+Cahill/MOR-glial, Levine 1988).
+
+**What did NOT survive:** (1) the *sharp cliff* itself was never cleanly dose-mapped
+in ANY system — it is an opioid-only, single-lineage clinical observation (Oxytrex 2-vs-4µg;
+buprenorphine 166:1 ratio). (2) The one same-receptor case with real dose-ranging (CB1)
+shows a BROAD window, contradicting "same-receptor → sudden." (3) The cross-system
+"pattern" is substantially **one contaminated lineage** (Wang did the CB1 Gs-switch assays;
+the D2 patent cites the retracted opioid filamin-A work) generalizing its own model — not
+five independent systems. (4) Crain himself **denied** the generalization, calling opioid
+bimodality "in sharp contrast" to monoaminergic systems that use distinct receptor subtypes.
+
+**The robust nearby reality (and it breaks the law):** the one genuinely independent,
+replicated sharp biphasic dopamine window is the **D2 autoreceptor** mechanism (low-dose
+blocks presynaptic autoreceptors → more dopamine; higher dose hits postsynaptic → reverses) —
+a **two-different-receptor-population** mechanism, the *opposite* of intra-receptor mode-switching.
+
+**Net:** the Oxytrex "two countering sites, benefit vanishes on doubling" is a real clinical
+observation whose proposed mechanism is fraudulent (filamin-A, retracted), whose dose-response
+was never properly characterized by anyone independent, and whose claimed generalization to
+CB1/D2 traces to the same discredited source.
+
 ## Key sources
 
 Difference-of-sigmoids / functional antagonism ([Mackay 1981](https://pmc.ncbi.nlm.nih.gov/articles/PMC2071862/)) ·
