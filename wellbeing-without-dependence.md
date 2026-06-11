@@ -243,6 +243,70 @@ reconsolidation —
 [propranolol reconsolidation, *Br J Pharmacol* 2015](https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.13272),
 [propranolol PTSD meta-analysis, *J Psychiatr Res* 2022](https://www.sciencedirect.com/science/article/abs/pii/S0022395622001741).
 
+## 3c. The jhana existence proof — and what it actually tells us to build
+
+The strongest argument that *sustainable, tolerance-resistant euphoria* is biologically possible
+is **jhana** (advanced concentrative absorption meditation). It deserves a direct answer,
+because it is empirically testable and the data are real:
+
+- **It activates the reward system endogenously.** Hagerty et al. recorded an expert during
+  ecstatic jhana and found the intense joy was associated with **nucleus accumbens activation
+  in the dopamine/opioid reward system** — a meditator *self-stimulating his own reward circuit*
+  without any drug.
+  ([Hagerty et al., *Neural Plasticity* 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3659471/))
+- **It has reproducible neural signatures.** Higher-resolution 7T fMRI from the Sacchet lab
+  finds a more complex picture than the original (e.g., sensory-cortex *increases* where Hagerty
+  saw decreases) and can **classify jhana states by machine learning**, confirming measurable,
+  reliable correlates of the bliss.
+  ([Sacchet lab 7T classification, arXiv 2026](https://arxiv.org/pdf/2602.13008);
+  [Neuroscience News summary](https://neurosciencenews.com/jhana-meditation-bain-mapping-25170/);
+  [phenomenology + connectivity, bioRxiv 2024](https://www.biorxiv.org/content/10.1101/2024.11.29.626048.full.pdf))
+
+So the premise is correct: **the human brain can produce sustainable, on-demand bliss that does
+not obviously wear out.** And it is unjustly gated — to those with years of retreat practice.
+But look at *how* jhana achieves what an exogenous euphoriant cannot, because this is the whole
+answer:
+
+1. **It is endogenous and self-regulated.** The brain *generates and titrates* the state under
+   top-down control. This is precisely why it escapes the opponent-process trap: a drug *floods*
+   receptors from outside, which is what recruits homeostatic counter-adaptation; a
+   self-generated, self-limited state engaged intermittently does not flood anything.
+2. **It is episodic, not a sustained supranormal baseline.** Practitioners *enter and exit*. No
+   one holds jhana 24/7 — which is exactly what would force the set-point to recalibrate.
+3. **The practice actively trains *down* "wanting."** Non-attachment/equanimity is the core
+   skill, and the tradition explicitly warns that *craving* the bliss is the failure mode (the
+   "jhana gone awry" hazard). Jhana doesn't merely leave wanting alone — it **deliberately
+   extinguishes the wanting while cultivating the liking.** This is "liking without wanting"
+   achieved by *training*, not by a molecule.
+
+**This is the resolution of "democratize liking, not wanting."** The framing is exactly right —
+it is the correct scientific target. But jhana is an existence proof for the **endogenous,
+self-regulated, wanting-extinguishing** route, *not* for a euphoriant pill. A pharmacological
+"pure liking amplifier" runs straight into the wall the theory predicts: the molecular
+substrates of liking are the **µ-opioid and cannabinoid hedonic hotspots** — i.e., the
+dependence-prone systems — and Berridge's own data show **liking itself downregulates
+("liking tolerance")** under sustained stimulation, while wanting can sensitize anyway. Jhana
+sidesteps all of this *only because* it has the features a pill lacks: it is generated from
+within, self-limited, and coupled to active craving-extinction.
+
+### The real democratization program
+The honest path to giving the many what the contemplative few have is **not** to chemically
+flood the hedonic hotspots, but to **lower the barrier to the endogenous state**:
+
+- **Neurofeedback.** Concentration (samatha) practice is itself "naturalistic neurofeedback"
+  predating the technology by two millennia; real-time feedback on the posterior/prefrontal
+  markers Sacchet's lab identified could help novices reach absorption faster.
+  ([OpenBCI jhana neurofeedback collaboration](https://openbci.com/forum/index.php?p=/discussion/1348/call-for-collaboration-neurofeedback-project-to-train-jhana-concentration-meditation-states);
+  [Harvard MGH meditation+neurofeedback scoping review](https://meditation.mgh.harvard.edu/files/Tal_26_OSF.pdf))
+- **Closed-loop neuromodulation** targeting those identified neural markers.
+- **Psychoplastogen-assisted access** (§3b): using a TBG-type plasticity window to *shorten the
+  training* needed to reach self-generated bliss — the drug lowers the entry cost to an
+  endogenous, self-sustaining skill, rather than *being* the euphoria.
+
+This is a genuine, fundable program to democratize sustainable bliss — and it is *more* likely
+to deliver durable wellbeing to a billion people than a euphoriant, precisely because it copies
+the mechanism that makes jhana sustainable instead of the mechanism that makes drugs addictive.
+
 ## 4. Which avenues are most promising — and the honest verdict
 
 **Ranked by "wellbeing/relief per unit of dependence risk," strongest first:**
